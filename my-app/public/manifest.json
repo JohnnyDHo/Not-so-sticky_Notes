@@ -1,0 +1,10 @@
+{
+  "short_name": "Not-so-sticky Notes",
+  "name": "Not-so-sticky Notes Extension By Johnny Ho",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Not-so-sticky Notes"
+  },
+  "version": "1.0"
+}
